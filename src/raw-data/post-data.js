@@ -1,4 +1,4 @@
-export const postData = [
+const postData = [
     {
       id: 1,
       title: "Paper Clips",
@@ -68,3 +68,5 @@ export const postData = [
     },
   ];
   
+
+  export default postData;
